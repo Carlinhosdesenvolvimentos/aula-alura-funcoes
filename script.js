@@ -24,7 +24,7 @@ const perguntas = [
         enunciado: "Carlinhos esta pensando como construir sua empresa ele fica na duvida qual ideia de inicio seria melhor",
         alternativas:[
             {
-                texto:"vender docinhos no começo para que embreve possa usar esse dinheiro para a empresa",
+                texto:"vender docinhos",
                 afirmacoes:"vender docinhos"
             },
             {
